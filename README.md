@@ -1,1 +1,1 @@
-Este es un proyecto simple que realicé, donde básicamente me sirvió para seguir mejorando mis habilidades para crear un crud, empezar a familiarizarme con tecnologías como vite y react. Además algo muy importante que es la primera vez que utilizo solo Django como backend y react como frontend.
+Este proyecto involucró el desarrollo de una aplicación web utilizando Django como backend y React como frontend, con el objetivo de fortalecer mis habilidades en la implementación de operaciones CRUD y familiarizarme con tecnologías modernas como Vite.
